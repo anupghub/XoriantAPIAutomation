@@ -4,7 +4,6 @@ public class Fields {
 
 	public Fields(Payloads payload) {
 		this.fields=payload;
-		
 	}
 	
 	
